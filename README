@@ -1,0 +1,4 @@
+The code requires Python 3.7 or greater.
+The code also depends on wxPython.
+From the command line, type the following command:
+	pip install wxpython
